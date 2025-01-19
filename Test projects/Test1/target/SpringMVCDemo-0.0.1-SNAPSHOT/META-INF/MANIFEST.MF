@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Created-By: IntelliJ IDEA
-Built-By: thanw
-Build-Jdk: Oracle OpenJDK 23
-Implementation-Title: SpringMVCDemo
-Implementation-Version: 0.0.1-SNAPSHOT
-Implementation-Vendor-Id: com.SpringMVCDemo
-Main-Class: ${start-class}
-
